@@ -9,6 +9,7 @@ Projects in this portfolio are connected and demonstrate the complete QA workflo
 
 The goal of this portfolio is to showcase practical QA project covering different stages of the testing process, including:
 - Manual Testing
+- Creating a Test Cases
 - API Testing (Postman)
 - SQL Database Validation
 - Bug Reporting (Jira)
@@ -30,10 +31,11 @@ Projekty v tomto portfóliu na seba nadväzujú a spoločne demonštrujú komple
 
 Cieľom tohto portfólia je predstaviť praktické QA projekty pokrývajúce rôzne oblasti procesu testovania, vrátane:
 
-Manuálne testovanie
-API testovanie (Postman)
-Validácia dát pomocou SQL
-Reportovanie chýb (Jira)
-Automatizované UI testovanie (TypeScript a Playwright)
+- Manuálne testovanie
+- Vytvorenie Testovacieho scenára
+- API testovanie (Postman)
+- Validácia dát pomocou SQL
+- Reportovanie chýb (Jira)
+- Automatizované UI testovanie (TypeScript a Playwright)
 
 Svoje portfólio neustále rozširujem osvojovaním si nových zručností, zdokonaľovaním svojich testovacích schopností a získavaním praktických skúseností v oblasti testovania softvéru.
